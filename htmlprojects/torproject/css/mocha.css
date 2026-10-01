@@ -1,0 +1,21 @@
+
+/* Set up colour palette and fonts using variables */
+
+:root {
+  --primary: #313244;
+  --onprimary:#cdd6f4;
+  --secondary: #313244;
+  --onsecondary:#cdd6f4;
+  --tertiary:#747474;
+  --ontertiary: #cdd6f4;
+  --page:#1e1e2e;
+  --onpage:#000000;
+  --detail: #585b70;
+  --detail2: #585b70;
+
+  --body-font: 1rem Verdana, sans-serif;
+  --header-font: 300 3rem 'JetBrainsMono NF', monospace;
+  --title-font: 300 2rem 'JetBrainsMono NF', monospace;
+  --quote-font: 300 1.5rem 'JetBrainsMono NF', monospace;
+
+}

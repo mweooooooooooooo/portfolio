@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap');
+
+:root {
+	--black: #11111b;
+	--blue:	#89b4fa;
+	--green: #a6e3a1;
+	--red: #f38ba8;
+	--orange: #fab387;
+	--yellow: #f9e2af;
+	--sky: #89dceb;
+	--saphire: #74c7ec;
+	--lavender: #b4befe;
+	--maroon: #eba0ac;
+	--text: #cdd6f4;
+	--base: #1e1e2e;
+	--mantle: #181825;
+	--subtext: #bac2de;
+	--surface: #313244;
+	--surface1: #45475a;
+	--surface2: #585b70;
+	--overlay: #6c7086;
+	--overlay1: #7f849c;
+	--overlay2: #9399b2;
+	--font: JetbrainsMono NF;
+}

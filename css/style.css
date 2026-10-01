@@ -1,0 +1,88 @@
+::selection {
+  background-color: var(--yellow);
+  color: var(--black);
+}
+
+body {
+	background-color: var(--black);
+	margin: 0;
+	font-family: var(--font);
+	/*background: url(../assets/nyan.gif);*/
+}
+
+header {
+	margin: 0;
+	padding: 10px;
+	background-color: var(--surface);
+}
+
+a {
+	text-decoration: none;
+	color: var(--red);
+}
+
+a:hover {
+	color: var(--green);
+}
+
+.portfoliolink {
+	color: var(--green);
+}
+
+.portfoliolink:hover {
+	color: var(--sky);
+}
+
+
+main {
+  background: var(--base);
+  color: var(--text);
+  margin: 0 auto;
+
+  border-radius: 5px;
+
+  margin-top: 15px;
+  margin-bottom: 15px;
+
+  min-width: 25rem;
+  max-width: 70rem;
+  padding: 0;
+  padding-top: 0.5rem;
+  margin-bottom: 1em;
+  padding: 10px;
+}
+
+section {
+  padding: 1rem 2rem;
+  margin: 1rem auto;
+  border-radius: 5px;
+}
+
+
+.flex {
+	display: flex;
+}
+
+section:hover{
+  background-color: var(--mantle);
+  color: var(--green);
+}
+
+img {
+	border-radius: 5px;
+}
+
+
+footer {
+  position: fixed;
+  background-color: var(--surface);
+  color: var(--text);
+  padding: 10px;
+  bottom: 0;
+  width: 100%;
+}
+
+footer a {
+	color: var(--blue);
+}
+
